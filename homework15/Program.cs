@@ -15,5 +15,4 @@ void CheckingTheDayOfTheWeek (int dayNumber) {
   }
   else Console.WriteLine("(этот день не выходной) -> нет");
 }
-
 CheckingTheDayOfTheWeek(dayNumber);
